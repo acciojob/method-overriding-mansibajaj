@@ -7,7 +7,7 @@ public class Main {
         B b=new B();
         System.out.println(b.meth());
 
-       // System.out.println("This is asample solution");
+        System.out.println("This is sample solution");
     }
     public static class A{
      public static String meth(){
