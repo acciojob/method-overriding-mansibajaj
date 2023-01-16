@@ -13,13 +13,13 @@ public class Main {
 
        // System.out.println("This is sample solution");
     }
-     static class A{
+    public static class A{
      public  String meth(){
          return "Invoking method from class A";
 
         }
     }
-     static class B extends A{
+   public   static class B extends A{
         @Override
 
         public  String meth(){
